@@ -1,0 +1,6 @@
+[submodule "api-server"]
+	path = api-server
+	url = git@github.com:Acchu07/api-server.git
+[submodule "worker-server"]
+	path = worker-server
+	url = git@github.com:Acchu07/worker-server.git
